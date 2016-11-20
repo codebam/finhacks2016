@@ -1,0 +1,18 @@
+{
+    "intents": [
+        {
+            "intent": "Stock",
+            "slots": [
+                {
+                    "name": "LIST_OF_NAMES"
+                },
+                {
+                    "code": "LIST_OF_CODES"
+                }
+            ]
+        },
+        {
+            "intent": "GetStockPrice"
+        }
+    ]
+}
